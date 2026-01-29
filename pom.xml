@@ -8,7 +8,7 @@
 
     <groupId>io.github.v4run-sharma</groupId>
     <artifactId>spring-boot-starter-correlation-id</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
     <packaging>jar</packaging>
 
     <name>Spring Boot Correlation ID Starter</name>
@@ -29,13 +29,6 @@
         </developerConnection>
         <url>https://github.com/V4run-Sharma/spring-boot-starter-correlation-id</url>
     </scm>
-
-    <distributionManagement>
-        <repository>
-            <id>central</id>
-            <url>https://ossrh-staging-api.central.sonatype.com/service/local/staging/deploy/maven2/</url>
-        </repository>
-    </distributionManagement>
 
     <developers>
         <developer>
@@ -162,6 +155,16 @@
                         </goals>
                     </execution>
                 </executions>
+            </plugin>
+            <plugin>
+                <groupId>org.sonatype.central</groupId>
+                <artifactId>central-publishing-maven-plugin</artifactId>
+                <version>0.5.0</version>
+                <extensions>true</extensions>
+                <configuration>
+                    <publishingServerId>central</publishingServerId>
+                    <autoPublish>true</autoPublish>
+                </configuration>
             </plugin>
         </plugins>
     </build>
