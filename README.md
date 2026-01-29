@@ -1,3 +1,7 @@
+![Build](https://github.com/V4run-Sharma/spring-boot-starter-correlation-id/actions/workflows/build.yml/badge.svg)
+![Java](https://img.shields.io/badge/Java-17-blue)
+![Spring%20Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen)
+
 # Spring Boot Correlation ID Starter
 
 A lightweight Spring Boot starter for automatic correlation ID generation, propagation, and MDC-based logging to enable end-to-end request tracing in distributed systems.
