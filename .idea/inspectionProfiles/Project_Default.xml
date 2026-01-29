@@ -32,6 +32,23 @@
           <option value="account-service" />
           <option value="account-service" />
           <option value="account-service" />
+          <option value="spring-boot-starter-correlation-id" />
+          <option value="spring-boot-starter-correlation-id" />
+          <option value="spring-boot-starter-correlation-id" />
+          <option value="spring-boot-starter-correlation-id" />
+          <option value="spring-boot-starter-correlation-id" />
+          <option value="spring-boot-starter-correlation-id" />
+          <option value="spring-boot-starter-correlation-id" />
+          <option value="spring-boot-starter-correlation-id" />
+          <option value="spring-boot-starter-correlation-id" />
+          <option value="spring-boot-starter-correlation-id" />
+          <option value="spring-boot-starter-correlation-id" />
+          <option value="spring-boot-starter-correlation-id" />
+          <option value="spring-boot-starter-correlation-id" />
+          <option value="spring-boot-starter-correlation-id" />
+          <option value="spring-boot-starter-correlation-id" />
+          <option value="spring-boot-starter-correlation-id" />
+          <option value="spring-boot-starter-correlation-id" />
         </list>
       </option>
       <option name="ignoredPackages">
@@ -56,10 +73,44 @@
           <option value="org.springframework.cloud:spring-cloud-config-client:2.0.0.RELEASE" />
           <option value="com.fasterxml.jackson.core:jackson-core:2.9.6" />
           <option value="org.springframework.security:spring-security-crypto:5.0.6.RELEASE" />
+          <option value="org.springframework.boot:spring-boot:3.2.0" />
+          <option value="org.springframework:spring-core:6.1.1" />
+          <option value="org.springframework:spring-context:6.1.1" />
+          <option value="org.springframework:spring-beans:6.1.1" />
+          <option value="ch.qos.logback:logback-classic:1.4.11" />
+          <option value="ch.qos.logback:logback-core:1.4.11" />
+          <option value="io.projectreactor.netty:reactor-netty-http:1.1.13" />
+          <option value="io.netty:netty-codec-http:4.1.101.Final" />
+          <option value="io.netty:netty-common:4.1.101.Final" />
+          <option value="io.netty:netty-codec:4.1.101.Final" />
+          <option value="io.netty:netty-handler:4.1.101.Final" />
+          <option value="io.netty:netty-codec-http2:4.1.101.Final" />
+          <option value="org.springframework:spring-web:6.1.1" />
+          <option value="org.springframework:spring-webflux:6.1.1" />
+          <option value="org.apache.tomcat.embed:tomcat-embed-core:10.1.16" />
+          <option value="org.apache.tomcat.embed:tomcat-embed-websocket:10.1.16" />
+          <option value="org.springframework:spring-webmvc:6.1.1" />
         </list>
       </option>
       <option name="ignoredReasons">
         <list>
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
           <option value="Not exploitable" />
           <option value="Not exploitable" />
           <option value="Not exploitable" />
