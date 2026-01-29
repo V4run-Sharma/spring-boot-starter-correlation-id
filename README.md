@@ -1,4 +1,4 @@
-![Build](https://github.com/V4run-Sharma/spring-boot-starter-correlation-id/actions/workflows/build.yml/badge.svg)
+![Build](https://github.com/V4run-Sharma/spring-boot-starter-correlation-id/actions/workflows/build.yaml/badge.svg)
 ![Java](https://img.shields.io/badge/Java-17-blue)
 ![Spring%20Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen)
 
